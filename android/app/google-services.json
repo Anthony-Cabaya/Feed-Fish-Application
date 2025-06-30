@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1044440514892",
+    "firebase_url": "https://fish-feed-auto-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fish-feed-auto",
+    "storage_bucket": "fish-feed-auto.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044440514892:android:3e7a57d6def77e6a748fe9",
+        "android_client_info": {
+          "package_name": "com.example.feed_fish"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB61Qne4IFmAWQT9jesiDYhsQzgUl5t9S0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
